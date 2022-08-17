@@ -1,6 +1,6 @@
 module modified_LUT(input [4:0] X,output [3:0] d, output [10:0] product,output reg [9:0] LUT_OUT,output [9:0] barrel_out,output s0,s1,output [8:0] w1 );
 
-//made by Souhardya Mondal ,213070092
+//made by Akansh Agarwal ,213070094
 
 //W refers to the no.of bits in the binary
 // representation of A. Here A is 32. Thus, W=6
